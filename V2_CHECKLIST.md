@@ -1,0 +1,32 @@
+# V2 Production Checklist
+
+- [x] Multi-agent orchestration
+- [x] Job-fit scoring
+- [x] Opportunity scoring
+- [x] Sponsorship/hard-block detection
+- [x] Scam-risk scoring
+- [x] Ghost-job risk scoring
+- [x] Company-intelligence module
+- [x] Salary-fit module
+- [x] Recruiter/contact CRM
+- [x] Warm-path scoring
+- [x] Resume A/B generation
+- [x] Cover-letter generation
+- [x] Personalized outreach generation
+- [x] Supervisor hallucination audit
+- [x] Conversion analytics
+- [x] Skill-gap/ROI engine
+- [x] Portfolio-project generator
+- [x] Interview-prep agent
+- [x] Offer-comparison agent
+- [x] Mobile PWA control center
+- [x] Daily + weekly scheduler
+- [x] ATS adapter registry and sensitive-question gate
+- [ ] Add private OpenAI API key
+- [ ] Add live job-feed credential
+- [ ] Complete Gmail OAuth
+- [ ] Choose licensed contact-data provider
+- [ ] Deploy to persistent cloud host
+- [ ] Add production authentication / passkeys
+- [ ] Add full site-specific browser tests for each ATS
+- [ ] Add push-notification provider
